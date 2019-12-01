@@ -1,5 +1,5 @@
 global:
-  owner: tonynv@amazon.com
+  owner: ammar.osman.ali@gmail.com
   qsname: qs-workshop
   regions:
     - ap-southeast-1
@@ -15,4 +15,4 @@ tests:
     parameter_input: workshop_input.json 
     template_file: master.template.yaml
     regions:
-      - us-west-2
+      - us-east-1
